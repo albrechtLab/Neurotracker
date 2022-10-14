@@ -12,7 +12,11 @@ The uploaded PDF file gives a step-by-step guide to installing and running the p
 * Run Neurotracker from Plugins > Tracking > Neurotracker
 * Analyze the data generated using the "NeuroTrackerSummary" MATLAB file.
 
+---
+
 > ***Practical considerations relating to running NeuroTracker and completing analysis are documented in the "UserGuide" and "Neural Imaging Data Analysis" PDFS, respectively.***
+
+---
 
 ## NeuroTrackerSummary
 NeuroTrackerSummary is a MATLAB file that reads and formats the data created as outputs by the included NeuroTracker software plugin.
